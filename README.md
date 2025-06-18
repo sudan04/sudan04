@@ -9,7 +9,7 @@
 ## Currently Learning
 
 - Spring Boot ⚙️ 
-- JavaScript & React 💻 
+- Dart and Flutter
 - Data Structures and Algorithms 📚
 - Git and GitHub workflows 🔧
 
