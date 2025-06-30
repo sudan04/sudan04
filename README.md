@@ -1,6 +1,6 @@
 # Hey! I'm Sudan Bhusal.
 
-<img src="[https://images.unsplash.com/photo-1534953280463-b7b1b04e5fad?q=80&w=1034&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://unsplash.com/photos/silver-imac-turned-on-inside-room-DtDlVpy-vvQ)" alt="cover image" style="width: 100%; height: auto;" />
+<img src="https://images.unsplash.com/photo-1534953280463-b7b1b04e5fad?q=80&w=1034&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://unsplash.com/photos/silver-imac-turned-on-inside-room-DtDlVpy-vvQ" alt="cover image" style="width: 100%; height: auto;" />
 
 ## About Me
 
