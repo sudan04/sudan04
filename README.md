@@ -1,4 +1,5 @@
 # Hey! I'm Sudan Bhusal.
+![Profile views](https://komarev.com/ghpvc/?username=sudan04&label=Profile%20views&color=0e75b6&style=flat)
 
 <img src="https://images.unsplash.com/photo-1545665277-5937489579f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cG9ydGZvbGlvfGVufDB8fDB8fHww" alt="cover image" style="width: 100%; height: auto;" />
 
